@@ -269,4 +269,4 @@ separate sibling with its own safety and control loop; no blower or generic hard
 plugin framework is implemented here.
 
 The delivered scope and final real-device verification are recorded in the
-[Milestone 1 acceptance record](../docs/pitblu-app-milestone-1.md).
+[Milestone 1 acceptance record](docs/pitblu-app-milestone-1.md).
